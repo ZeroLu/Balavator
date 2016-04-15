@@ -1,0 +1,45 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K1100M    (ID=0xff6)
+    Vendor:   NVIDIA
+    VRAM:     1977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\System.dll (this message is harmless)
+desktop: 1024x768 60Hz; virtual: 2944x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+A tree couldn't be loaded because the prefab is missing.
+ 
+(Filename:  Line: 319)
+
+UnloadTime: 0.748016 ms
+Running
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\s152047\Documents\TUe\M1\q3+q4\DBM211 Embodying Intelligent behavior in social context\3. Prototype\Balavator\balavator.1.2_Data\Managed\Boo.Lang.dll (this message is harmless)
+opening udpclient listener on port 8000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2198 -> priority: 1 
+  Thread -> id: 237c -> priority: 1 

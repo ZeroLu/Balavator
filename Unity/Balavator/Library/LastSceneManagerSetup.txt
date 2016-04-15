@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/PersonalTech/ZeroAR/Software/SocialCarAR/nyARToolkitUnity/Assets/Scenes/socialCar.0.4.unity
+  isLoaded: 1
+  isActive: 1
